@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_24px"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_imagescaling"
+            android:icon="@drawable/ic_photo_size_select_large_24px"
+            android:title="@string/menu_imagescaling" />
+
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_theaters_24px"
+            android:title="@string/menu_video" />
+
+        <item
+            android:id="@+id/nav_textToSpeech"
+            android:icon="@drawable/ic_volume_up_24px"
+            android:title="@string/menu_texttospeech" />
+
+        <item
+            android:id="@+id/nav_speechtotext"
+            android:icon="@drawable/ic_mic_24px"
+            android:title="@string/menu_speechtotext" />
+
+    </group>
+</menu>

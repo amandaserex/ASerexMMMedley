@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ASerexMMMedley</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Amanda Serex</string>
+    <string name="nav_header_subtitle">amandaserex@ucsb.edu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_imagescaling">Image Scaling</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_texttospeech">Text To Speech</string>
+    <string name="menu_speechtotext">Speech To Text</string>
+    <string name="menu_fireworks">Fireworks</string>
+    <string name="textToSpeech">Type something you want me to say!</string>
+    <string name="homeWriting1">Welcome to the MultiMedia Medley!</string>
+    <string name="homeWriting2">Pick a demo from the top-left menu!</string>
+
+
+</resources>
